@@ -1,0 +1,40 @@
+section.counter
+    position: absolute
+    width: 100%
+    top: 25%
+    height: 50%
+    display: flex
+    align-items: center
+    padding: 30px 0
+    justify-content: center
+
+    @media ( max-height: 480px )
+        top: 120px
+
+    span
+        display: inline-block
+        font-size: 90px
+        margin: 0 30px
+
+        &.negative
+            color: red
+        &.positive
+            color: green
+
+        &.clicker
+            width: 100px
+            height: 100px
+            line-height: 90px
+            text-align: center
+            background-color: $theme-color
+            border-radius: 50px
+            cursor: pointer
+            user-select: none
+            transition: .25s
+
+            &:hover
+                background-color: darken($theme-color, 20%)
+
+            &:active
+                background-color: darken($theme-color, 40%)
+                transform: scale(0.8)
