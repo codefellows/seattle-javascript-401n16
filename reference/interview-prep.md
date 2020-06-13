@@ -23,8 +23,8 @@ Please choose a slot you would like to sign up for. In order to sign up, send a 
 | June 06              | 3:30pm               | Madison S.           |
 | June 06              | 4:30pm               |                      |
 | -------------------- | -------------------- | -------------------- |
-| June 13              | 3:30pm               | Thomas T.            |
-| June 13              | 4:30pm               | Randee O.            |
+| June 13              | 3:30pm               |            |
+| June 13              | 4:30pm               |             |
 | -------------------- | -------------------- | -------------------- |
 | June 20              | 3:30pm               | Eyob T.              |
 | June 20              | 4:30pm               | Sian C.              |
