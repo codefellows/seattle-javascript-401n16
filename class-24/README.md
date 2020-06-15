@@ -11,10 +11,10 @@ Apps written using a component framework such as React are generally composed of
 At the end of this class, you'll be able to:
 
 -   [x] Understand `props.children`
--   [ ] Understand component iteration 
--   [ ] Be able to implement a simple multi-page application with routing 
--   [ ] Create logical wrapper components
--   [ ] Create functional wrapper components
+-   [x] Understand component iteration 
+-   [x] Be able to implement a simple multi-page application with routing 
+-   [x] Create logical wrapper components
+-   [x] Create functional wrapper components
 
 Prior to class, review the readings below and answer the discussion questions in your reading repository.
 
