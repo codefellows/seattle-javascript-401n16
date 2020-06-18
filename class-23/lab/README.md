@@ -42,25 +42,6 @@ package.json
 	index.js
 ```
 
-
-
-- - Holds state: Count and Results Array
-  - A class method that can update state
-  - Renders 2 Child Components
-- `<Form />`
-  - Expects a function to be sent to it as a prop
-  - Renders a URL entry form
-  - A selection of REST methods to choose from ("get" should be the default)
-  - On submit
-    - Send the API results back to the `<App>` using the method sent down in props
-- `<Results />`
-  - Expects the count, headers, results to be sent in as props
-  - Renders the count
-  - Renders the Result Headers as "pretty" JSON
-  - Renders the Result Body as "pretty" JSON
-
-
-
 ## Code Implementation
 
 > The following outline below is a suggested implementation. Note that your lab does NOT have to constrain itself to these suggestions; there are many ways to code an application and we encourage creativity and unique approaches! This suggested implementation is primarily for anyone who is having trouble knowing where/how to start.
