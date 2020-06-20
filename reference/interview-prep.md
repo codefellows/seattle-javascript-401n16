@@ -20,11 +20,11 @@ Please choose a slot you would like to sign up for. In order to sign up, send a 
 | ~~May 16~~               | ~~3:30pm~~               | [Earl Jay C.](https://www.youtube.com/watch?v=MSIX5GOFmWw) |
 | ~~May 16~~               | ~~4:30pm~~               |                      |
 | -------------------- | -------------------- | -------------------- |
-| June 06              | 3:30pm               | Madison S.           |
-| June 06              | 4:30pm               |                      |
+| ~~June 06~~              | ~~3:30pm~~               | [Madison S.](https://www.youtube.com/watch?v=UKriYcqTWLc)           |
+| ~~June 06~~              | ~~4:30pm~~               | [Randee O.](https://www.youtube.com/watch?v=db6I8YqkCew)                     |
 | -------------------- | -------------------- | -------------------- |
-| June 13              | 3:30pm               |            |
-| June 13              | 4:30pm               |             |
+| ~~June 13~~              | ~~3:30pm~~               |            |
+| ~~June 13~~              | ~~4:30pm~~               |             |
 | -------------------- | -------------------- | -------------------- |
 | June 20              | 3:30pm               | Eyob T.              |
 | June 20              | 4:30pm               | Sian C.              |
