@@ -1,0 +1,22 @@
+$theme-color: #fff;
+
+@mixin imgCover($height) {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: $height;
+}
+
+.img-grid {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: darken($theme-color, 10%);
+
+    .unsplash-img {
+        flex-shrink: 1;
+
+        img {
+            @include imgCover(500px);
+        }
+    }
+}
