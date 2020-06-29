@@ -1,4 +1,4 @@
-# Class 26 --- Hooks API
+# Class 27 --- Custom Hooks
 
 ## Lecture Videos
 
