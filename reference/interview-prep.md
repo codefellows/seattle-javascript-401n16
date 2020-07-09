@@ -29,18 +29,18 @@ Please choose a slot you would like to sign up for. In order to sign up, send a 
 | ~~June 20~~              | ~~3:30pm~~               | [Eyob T.](https://www.youtube.com/watch?v=ldLRSHr96M8)              |
 | ~~June 20~~              | ~~4:30pm~~               |              |
 | -------------------- | -------------------- | -------------------- |
-| June 27              | 3:30pm               |  Blandine D.                    |
-| June 27              | 4:30pm               | Henok G.             |
+| ~~June 27~~              | ~~3:30pm~~               |                  |
+| ~~June 27~~              | ~~4:30pm~~               | [Henok G.](https://www.youtube.com/watch?v=Yuea5lAUHAY)             |
 | -------------------- | -------------------- | -------------------- |
 | July 11              | 3:30pm               | Shubham M.           |
 | July 11              | 4:30pm               | Eyob T.              |
 | -------------------- | -------------------- | -------------------- |
-| July 18              | 3:30pm               | Tammy I.             |
+| July 18              | 3:30pm               |              |
 | July 18              | 4:30pm               |                      |
 | -------------------- | -------------------- | -------------------- |
 | July 25              | 3:30pm               | Eyob T.                    |
 | July 25              | 4:30pm               |                      |
 | -------------------- | -------------------- | -------------------- |
-| August 01            | 3:30pm               |                      |
+| August 01            | 3:30pm               | Tammy I.                     |
 | August 01            | 4:30pm               |                      |
 
