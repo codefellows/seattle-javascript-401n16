@@ -45,7 +45,7 @@ const initState = {
             category: 'food',
         },
     ],
-    currentCategory: '',
+    currentCategory: 'food',
 };
 
 const reducer = (state = initState, action) => {
