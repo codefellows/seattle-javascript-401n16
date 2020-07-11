@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { connect } from 'react-redux';
-import { Button } from '@material-ui/core';
+import { Button, Drawer } from '@material-ui/core';
 
 function Categories(props) {
     let categoriesHTML = [];
+    const [drawerOpen, setDrawerOpen] = useState(false);
 
     for (let i = 0; i < props.categories.length; i++)
         categoriesHTML.push(
@@ -17,13 +18,25 @@ function Categories(props) {
                         type: 'CHANGE_CATEGORY',
                         payload: props.categories[i].name,
                     });
+                    toggleDrawer();
                 }}
             >
                 {props.categories[i].displayName || props.categories[i].name}
             </Button>,
         );
 
-    return <>{categoriesHTML}</>;
+    function toggleDrawer() {
+        setDrawerOpen(!drawerOpen);
+    }
+
+    return (
+        <>
+            <Button onClick={toggleDrawer}>Categories</Button>
+            <Drawer anchor='top' open={drawerOpen} onClose={toggleDrawer}>
+                {categoriesHTML}
+            </Drawer>
+        </>
+    );
 }
 
 const mapStateToProps = (state) => {
